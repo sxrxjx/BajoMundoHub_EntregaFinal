@@ -2,10 +2,10 @@
 <?php
 
 
-define('DB_HOST', 'localhost');
-define('DB_NAME', 'bajo_mundo_db');
-define('DB_USER', 'root');
-define('DB_PASS', '');
+define('DB_HOST', 'db5020604518.hosting-data.io');
+define('DB_NAME', 'dbs15747177');
+define('DB_USER', 'dbu348370');
+define('DB_PASS', 'bajomundodatabase');
 
 
 ?>
